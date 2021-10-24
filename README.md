@@ -1,11 +1,5 @@
 # fast\_cpp20\_starter
 
-[![codecov](https://codecov.io/gh/RishabhRD/fast_cpp20_starter/branch/master/graph/badge.svg)](https://codecov.io/gh/RishabhRD/fast_cpp20_starter)
-
-[![Build Status](https://travis-ci.com/RishabhRD/fast_cpp20_starter.svg?branch=master)](https://travis-ci.com/RishabhRD/fast_cpp20_starter)
-
-![Build status](https://github.com/RishabhRD/fast_cpp20_starter/workflows/CMake/badge.svg)
-
 Modified [lefticus/cpp\_starter\_project](https://github.com/lefticus/cpp_starter_project) for C++20 that suits my workflow.
 
 ## Getting Started
