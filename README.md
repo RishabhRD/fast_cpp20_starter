@@ -425,3 +425,20 @@ version of `fmt`.
 
 ## Testing
 See [UT Tutorial](https://github.com/boost-ext/ut)
+
+Every test is recognized with ``*_test.cpp`` in test directory. Every test file
+will be built as different executable.
+
+Test would be built into ``build/bin/test/*``
+
+Every test file should have a main function as shown in UT tutorial.
+
+You can run all tests with:
+```bash
+cd build && ctest
+```
+
+For verbose output:
+```bash
+cd build && ctest --output-on-failure
+```
