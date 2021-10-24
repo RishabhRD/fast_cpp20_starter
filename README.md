@@ -1,8 +1,8 @@
 # fast\_cpp20\_starter
 
-[![codecov](https://codecov.io/gh/RishabhRD/fast_cpp20_starter/branch/master/graph/badge.svg)](https://codecov.io/gh/RishabhRD/cpp20_starter_project)
+[![codecov](https://codecov.io/gh/RishabhRD/fast_cpp20_starter/branch/master/graph/badge.svg)](https://codecov.io/gh/RishabhRD/fast_cpp20_starter)
 
-[![Build Status](https://travis-ci.com/RishabhRD/fast_cpp20_starter.svg?branch=master)](https://travis-ci.com/RishabhRD/cpp20_starter_project)
+[![Build Status](https://travis-ci.com/RishabhRD/fast_cpp20_starter.svg?branch=master)](https://travis-ci.com/RishabhRD/fast_cpp20_starter)
 
 ![Build status](https://github.com/RishabhRD/fast_cpp20_starter/workflows/CMake/badge.svg)
 
@@ -12,7 +12,7 @@ Modified [lefticus/cpp\_starter\_project](https://github.com/lefticus/cpp_starte
 
 ### Use the Github template
 First, click the green `Use this template` button near the top of this page.
-This will take you to Github's ['Generate Repository'](https://github.com/RishabhRD/cpp20_starter_project) page.
+This will take you to Github's ['Generate Repository'](https://github.com/RishabhRD/fast_cpp20_starter) page.
 Fill in a repository name and short description, and click 'Create repository from template'.
 This will allow you to create a new repository in your Github account,
 prepopulated with the contents of this project.
